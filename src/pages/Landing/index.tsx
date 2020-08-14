@@ -9,7 +9,6 @@ import purpleHeartIcon from '../../assets/images/icons/purple-heart.svg'
 
 import './styles.css'
 import { Link } from 'react-router-dom';
-import TeacherList from '../TeacherList';
 
 function Landing() {
     return (
